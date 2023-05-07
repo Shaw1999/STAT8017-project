@@ -1,23 +1,23 @@
 # STAT8017-project  
 ## data  
-'train.csv' is the raw traning data.  
-'train_missing.csv' is the traning data after handling the missing values   
-'train_preprocess.csv' is the training data for machine learning method.  
-'train_preprocess_dl.csv' is the training data for deep learning method.  
-'train_preprocess_tabnet.csv' is the training data for tabnet method.  
-'test.csv' is the raw test data.  
-'test_missing.csv' is the test data after handling the missing values   
-'test_preprocess.csv' is the test data for machine learning method.  
-'test_preprocess_dl.csv' is the test data for deep learning method.  
-'test_preprocess_tabnet.csv' is the test data for tabnet method.  
+**'train.csv'** is the raw traning data.  
+**'train_missing.csv'** is the traning data after handling the missing values   
+**'train_preprocess.csv'** is the training data for machine learning method.  
+**'train_preprocess_dl.csv'** is the training data for deep learning method.  
+**'train_preprocess_tabnet.csv' **is the training data for tabnet method.  
+**'test.csv'** is the raw test data.  
+**'test_missing.csv'** is the test data after handling the missing values   
+**'test_preprocess.csv' **is the test data for machine learning method.  
+**'test_preprocess_dl.csv'** is the test data for deep learning method.  
+**'test_preprocess_tabnet.csv'** is the test data for tabnet method.  
 
 
 
 ## Code  
-'1-distribution.py' will generate the distribution of all the features.  
-'1-missing values.py' will generate data after handling missing data.  
-'2-process.py' will generate data for machine learning method.  
-'2-preprocess-dl.py' will generate data for deep learning method.  
+**'1-distribution.py'** will generate the distribution of all the features.  
+**'1-missing values.py'** will generate data after handling missing data.  
+**'2-process.py'** will generate data for machine learning method.  
+**'2-preprocess-dl.py'** will generate data for deep learning method.  
 '2-preprocess-tabnet.py' will generate data for tabnet method.  
 '3-CNN.py' will generate the result for CNN on preprocess data of machine learning methods.  
 '3-CNN-dl.py' will generate the result for CNN on preprocess data of deep learning methods.   
