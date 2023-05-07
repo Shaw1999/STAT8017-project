@@ -4,10 +4,10 @@
 **'train_missing.csv'** is the traning data after handling the missing values   
 **'train_preprocess.csv'** is the training data for machine learning method.  
 **'train_preprocess_dl.csv'** is the training data for deep learning method.  
-**'train_preprocess_tabnet.csv'**is the training data for tabnet method.  
+**'train_preprocess_tabnet.csv'** is the training data for tabnet method.  
 **'test.csv'** is the raw test data.  
 **'test_missing.csv'** is the test data after handling the missing values   
-**'test_preprocess.csv'**is the test data for machine learning method.  
+**'test_preprocess.csv'** is the test data for machine learning method.  
 **'test_preprocess_dl.csv'** is the test data for deep learning method.  
 **'test_preprocess_tabnet.csv'** is the test data for tabnet method.  
 
