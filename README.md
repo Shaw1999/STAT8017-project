@@ -4,7 +4,7 @@
 **'train_missing.csv'** is the traning data after handling the missing values   
 **'train_preprocess.csv'** is the training data for machine learning method.  
 **'train_preprocess_dl.csv'** is the training data for deep learning method.  
-**'train_preprocess_tabnet.csv' **is the training data for tabnet method.  
+**'train_preprocess_tabnet.csv'**is the training data for tabnet method.  
 **'test.csv'** is the raw test data.  
 **'test_missing.csv'** is the test data after handling the missing values   
 **'test_preprocess.csv'**is the test data for machine learning method.  
@@ -36,7 +36,7 @@
 ## save files
 **'1-distribution.png'** is the distribution of all the features.  
 **'3-CNN-reslt.txt'** is the result for CNN on preprocess data of machine learning methods.  
-**'3-CNN-result_dl.txt'**is the result for CNN on preprocess data of deep learning methods.   
+**'3-CNN-result_dl.txt'** is the result for CNN on preprocess data of deep learning methods.   
 **'3-decision tree-result.txt'** is the result for gridsearch of decision tree method.  
 **'3-decision tree-result_dl.txt'** is the result of the best decision tree model.
 **'3-FNN-result.txt'** is the result for FNN on preprocess data of machine learning methods.  
