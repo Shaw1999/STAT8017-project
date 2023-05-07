@@ -1,0 +1,12 @@
+Training time: 75.70 seconds
+Classification report:
+              precision    recall  f1-score   support
+
+         0.0       0.90      0.86      0.88     14573
+         1.0       0.83      0.88      0.85     11403
+
+    accuracy                           0.87     25976
+   macro avg       0.86      0.87      0.86     25976
+weighted avg       0.87      0.87      0.87     25976
+Accuracy: 0.8658
+Feature importance is not directly available for CNN.

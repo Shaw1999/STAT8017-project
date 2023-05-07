@@ -1,0 +1,10 @@
+Best hyperparameter: {'C': 0.1}Training time: 6.10 secondsAccuracy score on the test set: 
+83.00%Classification report:              precision    recall  f1-score   support
+
+           0       0.83      0.87      0.85     14573
+           1       0.82      0.78      0.80     11403
+
+    accuracy                           0.83     25976
+   macro avg       0.83      0.82      0.83     25976
+weighted avg       0.83      0.83      0.83     25976
+Top 5 features impacting passenger satisfaction:PC1: -2.964149890753069PC4: -2.390393711096006Type of Travel_Business travel: 1.3420960833839357Type of Travel_Personal Travel: -1.341868928493244PC13: -1.1957898239665727

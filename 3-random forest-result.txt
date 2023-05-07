@@ -1,0 +1,18 @@
+Best hyperparameter: {'max_depth': 20, 'min_samples_leaf': 1, 'n_estimators': 200}
+Training time: 811.23 seconds
+Classification report:
+              precision    recall  f1-score   support
+
+           0       0.89      0.92      0.90     14573
+           1       0.89      0.85      0.87     11403
+
+    accuracy                           0.89     25976
+   macro avg       0.89      0.89      0.89     25976
+weighted avg       0.89      0.89      0.89     25976
+Accuracy: 0.8897
+Top 5 features impacting passenger satisfaction:
+PC1: 0.24472912359460422
+PC2: 0.08578419901576943
+Class_Business: 0.08143988635594887
+PC4: 0.0774366167017305
+Type of Travel_Business travel: 0.07244360619030243
